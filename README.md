@@ -8,6 +8,8 @@
    [![Issues](https://img.shields.io/github/issues/Fortnite-Burger/DeadByDaylight-Unlocker.svg?style=plastic)](https://github.com/Fortnite-Burger/DeadByDaylight-Unlocker/issues)
    [![Total downloads](https://img.shields.io/github/downloads/Fortnite-Burger/DeadByDaylight-Unlocker/total.svg?label=Downloads&logo=github&cacheSeconds=600&style=plastic)](https://github.com/Fortnite-Burger/DeadByDaylight-Unlocker/releases/latest)
    [![Discord](https://img.shields.io/discord/1148144263792701471.svg?color=7289da&label=Discord&logo=discord&logoColor=white&cacheSeconds=3600&style=plastic)](https://discord.gg/ySsrsYdGwx)
+   
+   # Fortnite Burger v2 is out now! Go check it out [here](https://github.com/Fortnite-Burger/DeadByDaylight-Unlocker-v2)
 
    # **Fortnite Burger Dead by Daylight Unlocker**
    
