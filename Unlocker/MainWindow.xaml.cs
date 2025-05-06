@@ -3,6 +3,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Windows;
 using System.Windows.Input;
+using FortniteBurger.Classes;
 
 namespace FortniteBurger
 {
@@ -27,7 +28,7 @@ namespace FortniteBurger
         internal static Classes.Mods.ModManager ModManager = new Classes.Mods.ModManager();
 
         internal static string DBDVersion = "8.5.2";
-        internal static string CurrVersion = "3.7.5.2";
+        internal static string CurrVersion = "3.7.5.3";
         internal static string CurrentType = "Steam";
 
         internal bool InQueue = false;
@@ -83,6 +84,9 @@ namespace FortniteBurger
             {
                 System.Windows.MessageBox.Show("Welcome to Fortnite Burger, this message will only show once. \n\nPlease make sure to check the settings page for any changes you may want to change. \n\n!!! ------------------------------------- !!!\n\nIf you have paid for this tool you have been scammed.\nFortnite Burger is completely free and is not paid in any ways. \n\nTake Care \n/Ossie");
             }
+
+            System.Windows.MessageBox.Show("Hey! \n\nHave you seen that Fortnite Burger v2 has been released? \nThe version you are currently using, will not recieve further updates in the future, you should consider switching to the new one! \n\nTake Care \n/Ossie");
+            Launcher.LaunchWeb("https://github.com/Fortnite-Burger/DeadByDaylight-Unlocker-v2/releases/latest");
         }
 
         private void TopBar_MouseDown(object sender, MouseButtonEventArgs e)
