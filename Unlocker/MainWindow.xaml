@@ -159,8 +159,8 @@
             <Image Source="Images/minimize.png"/>
         </Button>
 
-        <TextBlock Text="Fortnite Burger" FontSize="75" Margin="105,0,0,400" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White" FontFamily="Tw Cen MT Condensed Extra Bold"/>
-        <TextBlock Text="Dead by Daylight Tool" FontSize="50" Margin="105,0,0,200" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White" FontFamily="Tw Cen MT Condensed Extra Bold"/>
+        <TextBlock Text="Modly" FontSize="75" Margin="105,0,0,400" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White" FontFamily="Tw Cen MT Condensed Extra Bold"/>
+        <TextBlock Text="Modly tool" FontSize="50" Margin="105,0,0,200" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="White" FontFamily="Tw Cen MT Condensed Extra Bold"/>
         <TextBlock x:Name="VersionText" Text="Burger: v2.0" FontSize="10" VerticalAlignment="Bottom" HorizontalAlignment="Left" Opacity="0.1" Foreground="DarkGray" FontFamily="Tw Cen MT Condensed Extra Bold"/>
         <TextBlock x:Name="DbdVersionText" Text="DBD: v7.2.3" FontSize="10" Margin="0,0,0,10" VerticalAlignment="Bottom" HorizontalAlignment="Left" Opacity="0.1" Foreground="DarkGray" FontFamily="Tw Cen MT Condensed Extra Bold"/>
 
